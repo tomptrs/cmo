@@ -1,3 +1,5 @@
 1. initieel
 2. Deel 2
 3. functie op branch b1
+
+1. eaict naar github

@@ -1,3 +1,10 @@
 1. initieel
 2. Deel 2
 3. functie op branch b1
+4. functie op branch tom
+5 master
+
+
+ik zit in branch tom en commit niets
+
+master en commit
